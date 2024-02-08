@@ -42,7 +42,7 @@
 в котором можно добавить дополнительные роуты приложения.
 
 
-### Несколько скриншотов
+### А как оно выглядит
 
 Диалог в мессенджере:
 ![](https://sun9-31.userapi.com/impg/Yw4XZN61sAlsM2EeHz-Kg30DS-IaBgi-NsHVsA/3Whb_htd-PI.jpg?size=607x487&quality=96&sign=fabebf5f370ef0e9047415d269c53063&type=album)
@@ -51,5 +51,6 @@
 ![](https://sun9-49.userapi.com/impg/G2gC2LAmEZ3lOaD14i9NVfqrfQxUWkDruDMYfQ/qP7Ke_qsd6w.jpg?size=1613x709&quality=96&sign=87f6aa586ddeab13d49cae488a6531cb&type=album)
 
 
-_Изначально это всё было написано в тетрадке и переслано SMS_
-_сообщениями другу, который захостил приложение на pythonanywhere._
+_Изначально это был общедоступный чат без авторизации,_
+_написанный в тетрадке и пересланный SMS сообщениями_
+_другу, который захостил приложение на pythonanywhere._
