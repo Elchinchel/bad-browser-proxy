@@ -1,0 +1,10 @@
+.vscode/
+
+.venv/
+__pycache__/
+
+sites.json
+peers.json
+snippets.json
+snipppet_translator.py
+vk_last_messages

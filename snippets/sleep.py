@@ -1,0 +1,1 @@
+__import__("time").sleep(args[0])

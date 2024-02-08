@@ -1,0 +1,1 @@
+r = su("vk_api", request.cookies["token"], "storage.set", {"key": args[0], "value": args[1]})[1]
