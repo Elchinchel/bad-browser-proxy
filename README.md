@@ -44,10 +44,10 @@
 
 ### А как оно выглядит
 
-Диалог в мессенджере:
+Диалог в мессенджере:\
 ![](https://sun9-31.userapi.com/impg/Yw4XZN61sAlsM2EeHz-Kg30DS-IaBgi-NsHVsA/3Whb_htd-PI.jpg?size=607x487&quality=96&sign=fabebf5f370ef0e9047415d269c53063&type=album)
 
-Сайт docs.python.org, обработанный LoFier'ом:
+Сайт docs.python.org, обработанный LoFier'ом:\
 ![](https://sun9-49.userapi.com/impg/G2gC2LAmEZ3lOaD14i9NVfqrfQxUWkDruDMYfQ/qP7Ke_qsd6w.jpg?size=1613x709&quality=96&sign=87f6aa586ddeab13d49cae488a6531cb&type=album)
 
 
